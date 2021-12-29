@@ -1,4 +1,4 @@
-package utils;
+package github.oldataraxia.utils;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
